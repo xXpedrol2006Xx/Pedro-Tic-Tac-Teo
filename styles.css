@@ -43,7 +43,7 @@ h1,h2 {
 }
 
 #gameHolder{
-     font-family: "Permanent Marker";
+     font-family: "Permanent Marker", Arial, Helvetica, sans-serif;
      text-align: center;
 }
 
